@@ -1,5 +1,7 @@
 # 🚀 LACED SERVER NUKER
 
+<img src="https://media.discordapp.net/attachments/766870971743076363/768944093006397470/unknown.png" alt="Avatar" style="border-radius: 75%;">
+
 # Usage
 
 1. DOWNLOAD THE RAR FILE
