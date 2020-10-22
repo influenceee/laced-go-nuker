@@ -1,6 +1,6 @@
 # 🚀 LACED SERVER NUKER
 
-# USAGE
+# Usage
 
 1. DOWNLOAD THE RAR FILE
 2. UNZIP WITH (WINRAR, etc(any other extractor)
